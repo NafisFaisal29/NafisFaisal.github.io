@@ -1,12 +1,3 @@
 # NafisFaisal.github.io
 
-### Education
-
-
-### Subjects of Interest
-Lots:
-- Machine Learning
-- Deep Learning
-
-
-### Research Interests
+This is the github page of me, Nafis Faisal. This was made using the "Strata" template from html5 website.
